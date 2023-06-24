@@ -1,7 +1,7 @@
 - 👋 Hi, I’m  Hari
-- 👀 I’m interested in Blockchain, Web3, NFT, Defi
+- 👀 I’m interested in AI, Machine language, Blockchain, Web3, NFT, Defi
 - 🌱 I’m currently learning Blockchain, Web3, NFT, Defi
-- 💞️ I’m looking to collaborate on WEB3, Blockchain tech
+- 💞️ I’m looking to collaborate on AI, ML, WEB3, Blockchain tech
 - 📫 How to reach me harinj@yahoo.com
 
 <!---
